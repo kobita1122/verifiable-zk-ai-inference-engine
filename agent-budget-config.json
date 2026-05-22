@@ -1,0 +1,6 @@
+{
+  "max_inference_cost_usd": 0.50,
+  "required_verification_type": "ZK_ML",
+  "allowed_models": ["llama-3.1-70b-quantized", "stable-diffusion-3.5"],
+  "retry_attempts": 3
+}
